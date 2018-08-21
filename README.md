@@ -1,2 +1,2 @@
-# java-labs(lab6&lab8)
+# java-labs
 practice
